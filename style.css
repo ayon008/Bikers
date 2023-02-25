@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: #264653;
+}
+
+.login {
+    background-color: #E76F51;
+    padding: 10px px;
+}
+
+footer {
+    background-color: #0B0D17;
+}
+
+footer ul {
+    gap: 20px;
+}
+
+footer img {
+    width: 135px;
+    height: 40px;
+}
+.last-pic {
+    gap: 10px;
+}
